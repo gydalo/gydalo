@@ -5,4 +5,4 @@ My name is Gyda, and I am a Front-end development student at Noroff. I am lookin
 - 🌱 I’m currently learning javascript through Noroff online studies and "Head First Javascript Programming - A Brain Friendly Guide" by Eric Freeman and Elisabeth Robson.
 - 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/gyda-lofthus-301069291/)
 - ⚡ Fun fact: I have a bachelors degree in Social work.
-- [Portfolio](//https://gydalofthus.no/).
+- [Portfolio](gydalofthus.no/)
